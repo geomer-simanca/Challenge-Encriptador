@@ -205,3 +205,12 @@ main{
         reflect: auto;
     }
 }
+
+@media (max-width:1160px) {
+    
+    .cuerpo_seccion1_botones2{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}
