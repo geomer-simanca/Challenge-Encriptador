@@ -206,7 +206,7 @@ main{
     }
 }
 
-@media (max-width:1160px) {
+@media (max-width:516px) {
     
     .cuerpo_seccion1_botones2{
         display: flex;
