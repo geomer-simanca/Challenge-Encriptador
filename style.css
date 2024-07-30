@@ -216,4 +216,16 @@ main{
         align-items: center;
 
     }
+
+    .cuerpo_seccion1_boton_encriptar{
+
+        margin: 5px
+
+    
+    }
+    
+    .cuerpo_seccion1_boton_desencriptar{
+        margin: 5px
+
+    }
 }
